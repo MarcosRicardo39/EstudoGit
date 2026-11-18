@@ -20,7 +20,7 @@ namespace EstudoGit.Services
         {
             foreach (Cliente cliente in ListaClientes)
             {
-                if (cliente.Idade > 17)
+                if (cliente.Idade > 21)
                 {
                     Console.WriteLine($"{cliente.Nome}: Maior de idade.");
                 }
