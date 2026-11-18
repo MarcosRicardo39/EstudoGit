@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EstudoGit": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
