@@ -11,5 +11,7 @@ namespace EstudoGit.Model
         public int QtdPrincipal { get; set; }
         public int QtdSecundaria { get; set; }
 
+        public int QtdTernaria { get; set; }
+
     }
 }
