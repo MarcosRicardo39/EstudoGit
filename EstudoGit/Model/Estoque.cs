@@ -11,7 +11,11 @@ namespace EstudoGit.Model
         public int QtdPrincipal { get; set; }
         public int QtdSecundaria { get; set; }
 
+<<<<<<< HEAD
         public int QtdTernaria7 { get; set; }
+=======
+        public int QtdTernaria3 { get; set; }
+>>>>>>> b66245a (Feat: Alteração no nome)
 
     }
 }
