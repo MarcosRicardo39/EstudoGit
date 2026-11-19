@@ -8,5 +8,8 @@ namespace EstudoGit.Model
 {
     public class Estoque
     {
+        public int QtdPrincipal { get; set; }
+        public int QtdSecundaria { get; set; }
+
     }
 }
